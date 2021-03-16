@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	double rate;
+	double a;
 	double usd;
 	int krw;
 
